@@ -1,0 +1,1619 @@
+{
+  "conversionPaths": [
+    {
+      "Country I": "usd",
+      "Country II": "eur",
+      "Conversion Path": "usd-to-eur"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "jpy",
+      "Conversion Path": "usd-to-jpy"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "gbp",
+      "Conversion Path": "usd-to-gbp"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "cny",
+      "Conversion Path": "usd-to-cny"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "aud",
+      "Conversion Path": "usd-to-aud"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "cad",
+      "Conversion Path": "usd-to-cad"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "kwd",
+      "Conversion Path": "usd-to-kwd"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "hkd",
+      "Conversion Path": "usd-to-hkd"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "sgd",
+      "Conversion Path": "usd-to-sgd"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "sek",
+      "Conversion Path": "usd-to-sek"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "krw",
+      "Conversion Path": "usd-to-krw"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "aed",
+      "Conversion Path": "usd-to-aed"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "nzd",
+      "Conversion Path": "usd-to-nzd"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "inr",
+      "Conversion Path": "usd-to-inr"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "mxn",
+      "Conversion Path": "usd-to-mxn"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "zar",
+      "Conversion Path": "usd-to-zar"
+    },
+    {
+      "Country I": "usd",
+      "Country II": "brl",
+      "Conversion Path": "usd-to-brl"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "usd",
+      "Conversion Path": "eur-to-usd"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "eur",
+      "Conversion Path": "eur-to-eur"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "jpy",
+      "Conversion Path": "eur-to-jpy"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "gbp",
+      "Conversion Path": "eur-to-gbp"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "cny",
+      "Conversion Path": "eur-to-cny"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "aud",
+      "Conversion Path": "eur-to-aud"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "cad",
+      "Conversion Path": "eur-to-cad"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "kwd",
+      "Conversion Path": "eur-to-kwd"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "hkd",
+      "Conversion Path": "eur-to-hkd"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "sgd",
+      "Conversion Path": "eur-to-sgd"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "sek",
+      "Conversion Path": "eur-to-sek"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "krw",
+      "Conversion Path": "eur-to-krw"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "aed",
+      "Conversion Path": "eur-to-aed"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "nzd",
+      "Conversion Path": "eur-to-nzd"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "inr",
+      "Conversion Path": "eur-to-inr"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "mxn",
+      "Conversion Path": "eur-to-mxn"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "zar",
+      "Conversion Path": "eur-to-zar"
+    },
+    {
+      "Country I": "eur",
+      "Country II": "brl",
+      "Conversion Path": "eur-to-brl"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "usd",
+      "Conversion Path": "jpy-to-usd"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "eur",
+      "Conversion Path": "jpy-to-eur"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "jpy",
+      "Conversion Path": "jpy-to-jpy"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "gbp",
+      "Conversion Path": "jpy-to-gbp"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "cny",
+      "Conversion Path": "jpy-to-cny"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "aud",
+      "Conversion Path": "jpy-to-aud"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "cad",
+      "Conversion Path": "jpy-to-cad"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "kwd",
+      "Conversion Path": "jpy-to-kwd"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "hkd",
+      "Conversion Path": "jpy-to-hkd"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "sgd",
+      "Conversion Path": "jpy-to-sgd"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "sek",
+      "Conversion Path": "jpy-to-sek"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "krw",
+      "Conversion Path": "jpy-to-krw"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "aed",
+      "Conversion Path": "jpy-to-aed"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "nzd",
+      "Conversion Path": "jpy-to-nzd"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "inr",
+      "Conversion Path": "jpy-to-inr"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "mxn",
+      "Conversion Path": "jpy-to-mxn"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "zar",
+      "Conversion Path": "jpy-to-zar"
+    },
+    {
+      "Country I": "jpy",
+      "Country II": "brl",
+      "Conversion Path": "jpy-to-brl"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "usd",
+      "Conversion Path": "gbp-to-usd"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "eur",
+      "Conversion Path": "gbp-to-eur"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "jpy",
+      "Conversion Path": "gbp-to-jpy"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "gbp",
+      "Conversion Path": "gbp-to-gbp"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "cny",
+      "Conversion Path": "gbp-to-cny"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "aud",
+      "Conversion Path": "gbp-to-aud"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "cad",
+      "Conversion Path": "gbp-to-cad"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "kwd",
+      "Conversion Path": "gbp-to-kwd"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "hkd",
+      "Conversion Path": "gbp-to-hkd"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "sgd",
+      "Conversion Path": "gbp-to-sgd"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "sek",
+      "Conversion Path": "gbp-to-sek"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "krw",
+      "Conversion Path": "gbp-to-krw"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "aed",
+      "Conversion Path": "gbp-to-aed"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "nzd",
+      "Conversion Path": "gbp-to-nzd"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "inr",
+      "Conversion Path": "gbp-to-inr"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "mxn",
+      "Conversion Path": "gbp-to-mxn"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "zar",
+      "Conversion Path": "gbp-to-zar"
+    },
+    {
+      "Country I": "gbp",
+      "Country II": "brl",
+      "Conversion Path": "gbp-to-brl"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "usd",
+      "Conversion Path": "cny-to-usd"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "eur",
+      "Conversion Path": "cny-to-eur"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "jpy",
+      "Conversion Path": "cny-to-jpy"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "gbp",
+      "Conversion Path": "cny-to-gbp"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "cny",
+      "Conversion Path": "cny-to-cny"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "aud",
+      "Conversion Path": "cny-to-aud"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "cad",
+      "Conversion Path": "cny-to-cad"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "kwd",
+      "Conversion Path": "cny-to-kwd"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "hkd",
+      "Conversion Path": "cny-to-hkd"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "sgd",
+      "Conversion Path": "cny-to-sgd"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "sek",
+      "Conversion Path": "cny-to-sek"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "krw",
+      "Conversion Path": "cny-to-krw"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "aed",
+      "Conversion Path": "cny-to-aed"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "nzd",
+      "Conversion Path": "cny-to-nzd"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "inr",
+      "Conversion Path": "cny-to-inr"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "mxn",
+      "Conversion Path": "cny-to-mxn"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "zar",
+      "Conversion Path": "cny-to-zar"
+    },
+    {
+      "Country I": "cny",
+      "Country II": "brl",
+      "Conversion Path": "cny-to-brl"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "usd",
+      "Conversion Path": "aud-to-usd"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "eur",
+      "Conversion Path": "aud-to-eur"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "jpy",
+      "Conversion Path": "aud-to-jpy"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "gbp",
+      "Conversion Path": "aud-to-gbp"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "cny",
+      "Conversion Path": "aud-to-cny"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "aud",
+      "Conversion Path": "aud-to-aud"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "cad",
+      "Conversion Path": "aud-to-cad"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "kwd",
+      "Conversion Path": "aud-to-kwd"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "hkd",
+      "Conversion Path": "aud-to-hkd"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "sgd",
+      "Conversion Path": "aud-to-sgd"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "sek",
+      "Conversion Path": "aud-to-sek"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "krw",
+      "Conversion Path": "aud-to-krw"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "aed",
+      "Conversion Path": "aud-to-aed"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "nzd",
+      "Conversion Path": "aud-to-nzd"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "inr",
+      "Conversion Path": "aud-to-inr"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "mxn",
+      "Conversion Path": "aud-to-mxn"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "zar",
+      "Conversion Path": "aud-to-zar"
+    },
+    {
+      "Country I": "aud",
+      "Country II": "brl",
+      "Conversion Path": "aud-to-brl"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "usd",
+      "Conversion Path": "cad-to-usd"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "eur",
+      "Conversion Path": "cad-to-eur"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "jpy",
+      "Conversion Path": "cad-to-jpy"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "gbp",
+      "Conversion Path": "cad-to-gbp"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "cny",
+      "Conversion Path": "cad-to-cny"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "aud",
+      "Conversion Path": "cad-to-aud"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "cad",
+      "Conversion Path": "cad-to-cad"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "kwd",
+      "Conversion Path": "cad-to-kwd"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "hkd",
+      "Conversion Path": "cad-to-hkd"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "sgd",
+      "Conversion Path": "cad-to-sgd"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "sek",
+      "Conversion Path": "cad-to-sek"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "krw",
+      "Conversion Path": "cad-to-krw"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "aed",
+      "Conversion Path": "cad-to-aed"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "nzd",
+      "Conversion Path": "cad-to-nzd"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "inr",
+      "Conversion Path": "cad-to-inr"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "mxn",
+      "Conversion Path": "cad-to-mxn"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "zar",
+      "Conversion Path": "cad-to-zar"
+    },
+    {
+      "Country I": "cad",
+      "Country II": "brl",
+      "Conversion Path": "cad-to-brl"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "usd",
+      "Conversion Path": "kwd-to-usd"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "eur",
+      "Conversion Path": "kwd-to-eur"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "jpy",
+      "Conversion Path": "kwd-to-jpy"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "gbp",
+      "Conversion Path": "kwd-to-gbp"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "cny",
+      "Conversion Path": "kwd-to-cny"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "aud",
+      "Conversion Path": "kwd-to-aud"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "cad",
+      "Conversion Path": "kwd-to-cad"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "kwd",
+      "Conversion Path": "kwd-to-kwd"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "hkd",
+      "Conversion Path": "kwd-to-hkd"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "sgd",
+      "Conversion Path": "kwd-to-sgd"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "sek",
+      "Conversion Path": "kwd-to-sek"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "krw",
+      "Conversion Path": "kwd-to-krw"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "aed",
+      "Conversion Path": "kwd-to-aed"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "nzd",
+      "Conversion Path": "kwd-to-nzd"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "inr",
+      "Conversion Path": "kwd-to-inr"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "mxn",
+      "Conversion Path": "kwd-to-mxn"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "zar",
+      "Conversion Path": "kwd-to-zar"
+    },
+    {
+      "Country I": "kwd",
+      "Country II": "brl",
+      "Conversion Path": "kwd-to-brl"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "usd",
+      "Conversion Path": "hkd-to-usd"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "eur",
+      "Conversion Path": "hkd-to-eur"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "jpy",
+      "Conversion Path": "hkd-to-jpy"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "gbp",
+      "Conversion Path": "hkd-to-gbp"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "cny",
+      "Conversion Path": "hkd-to-cny"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "aud",
+      "Conversion Path": "hkd-to-aud"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "cad",
+      "Conversion Path": "hkd-to-cad"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "kwd",
+      "Conversion Path": "hkd-to-kwd"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "hkd",
+      "Conversion Path": "hkd-to-hkd"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "sgd",
+      "Conversion Path": "hkd-to-sgd"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "sek",
+      "Conversion Path": "hkd-to-sek"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "krw",
+      "Conversion Path": "hkd-to-krw"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "aed",
+      "Conversion Path": "hkd-to-aed"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "nzd",
+      "Conversion Path": "hkd-to-nzd"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "inr",
+      "Conversion Path": "hkd-to-inr"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "mxn",
+      "Conversion Path": "hkd-to-mxn"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "zar",
+      "Conversion Path": "hkd-to-zar"
+    },
+    {
+      "Country I": "hkd",
+      "Country II": "brl",
+      "Conversion Path": "hkd-to-brl"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "usd",
+      "Conversion Path": "sgd-to-usd"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "eur",
+      "Conversion Path": "sgd-to-eur"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "jpy",
+      "Conversion Path": "sgd-to-jpy"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "gbp",
+      "Conversion Path": "sgd-to-gbp"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "cny",
+      "Conversion Path": "sgd-to-cny"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "aud",
+      "Conversion Path": "sgd-to-aud"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "cad",
+      "Conversion Path": "sgd-to-cad"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "kwd",
+      "Conversion Path": "sgd-to-kwd"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "hkd",
+      "Conversion Path": "sgd-to-hkd"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "sgd",
+      "Conversion Path": "sgd-to-sgd"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "sek",
+      "Conversion Path": "sgd-to-sek"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "krw",
+      "Conversion Path": "sgd-to-krw"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "aed",
+      "Conversion Path": "sgd-to-aed"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "nzd",
+      "Conversion Path": "sgd-to-nzd"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "inr",
+      "Conversion Path": "sgd-to-inr"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "mxn",
+      "Conversion Path": "sgd-to-mxn"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "zar",
+      "Conversion Path": "sgd-to-zar"
+    },
+    {
+      "Country I": "sgd",
+      "Country II": "brl",
+      "Conversion Path": "sgd-to-brl"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "usd",
+      "Conversion Path": "sek-to-usd"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "eur",
+      "Conversion Path": "sek-to-eur"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "jpy",
+      "Conversion Path": "sek-to-jpy"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "gbp",
+      "Conversion Path": "sek-to-gbp"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "cny",
+      "Conversion Path": "sek-to-cny"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "aud",
+      "Conversion Path": "sek-to-aud"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "cad",
+      "Conversion Path": "sek-to-cad"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "kwd",
+      "Conversion Path": "sek-to-kwd"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "hkd",
+      "Conversion Path": "sek-to-hkd"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "sgd",
+      "Conversion Path": "sek-to-sgd"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "sek",
+      "Conversion Path": "sek-to-sek"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "krw",
+      "Conversion Path": "sek-to-krw"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "aed",
+      "Conversion Path": "sek-to-aed"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "nzd",
+      "Conversion Path": "sek-to-nzd"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "inr",
+      "Conversion Path": "sek-to-inr"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "mxn",
+      "Conversion Path": "sek-to-mxn"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "zar",
+      "Conversion Path": "sek-to-zar"
+    },
+    {
+      "Country I": "sek",
+      "Country II": "brl",
+      "Conversion Path": "sek-to-brl"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "usd",
+      "Conversion Path": "krw-to-usd"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "eur",
+      "Conversion Path": "krw-to-eur"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "jpy",
+      "Conversion Path": "krw-to-jpy"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "gbp",
+      "Conversion Path": "krw-to-gbp"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "cny",
+      "Conversion Path": "krw-to-cny"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "aud",
+      "Conversion Path": "krw-to-aud"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "cad",
+      "Conversion Path": "krw-to-cad"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "kwd",
+      "Conversion Path": "krw-to-kwd"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "hkd",
+      "Conversion Path": "krw-to-hkd"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "sgd",
+      "Conversion Path": "krw-to-sgd"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "sek",
+      "Conversion Path": "krw-to-sek"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "krw",
+      "Conversion Path": "krw-to-krw"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "aed",
+      "Conversion Path": "krw-to-aed"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "nzd",
+      "Conversion Path": "krw-to-nzd"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "inr",
+      "Conversion Path": "krw-to-inr"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "mxn",
+      "Conversion Path": "krw-to-mxn"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "zar",
+      "Conversion Path": "krw-to-zar"
+    },
+    {
+      "Country I": "krw",
+      "Country II": "brl",
+      "Conversion Path": "krw-to-brl"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "usd",
+      "Conversion Path": "aed-to-usd"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "eur",
+      "Conversion Path": "aed-to-eur"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "jpy",
+      "Conversion Path": "aed-to-jpy"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "gbp",
+      "Conversion Path": "aed-to-gbp"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "cny",
+      "Conversion Path": "aed-to-cny"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "aud",
+      "Conversion Path": "aed-to-aud"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "cad",
+      "Conversion Path": "aed-to-cad"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "kwd",
+      "Conversion Path": "aed-to-kwd"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "hkd",
+      "Conversion Path": "aed-to-hkd"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "sgd",
+      "Conversion Path": "aed-to-sgd"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "sek",
+      "Conversion Path": "aed-to-sek"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "krw",
+      "Conversion Path": "aed-to-krw"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "aed",
+      "Conversion Path": "aed-to-aed"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "nzd",
+      "Conversion Path": "aed-to-nzd"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "inr",
+      "Conversion Path": "aed-to-inr"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "mxn",
+      "Conversion Path": "aed-to-mxn"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "zar",
+      "Conversion Path": "aed-to-zar"
+    },
+    {
+      "Country I": "aed",
+      "Country II": "brl",
+      "Conversion Path": "aed-to-brl"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "usd",
+      "Conversion Path": "nzd-to-usd"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "eur",
+      "Conversion Path": "nzd-to-eur"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "jpy",
+      "Conversion Path": "nzd-to-jpy"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "gbp",
+      "Conversion Path": "nzd-to-gbp"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "cny",
+      "Conversion Path": "nzd-to-cny"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "aud",
+      "Conversion Path": "nzd-to-aud"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "cad",
+      "Conversion Path": "nzd-to-cad"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "kwd",
+      "Conversion Path": "nzd-to-kwd"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "hkd",
+      "Conversion Path": "nzd-to-hkd"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "sgd",
+      "Conversion Path": "nzd-to-sgd"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "sek",
+      "Conversion Path": "nzd-to-sek"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "krw",
+      "Conversion Path": "nzd-to-krw"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "aed",
+      "Conversion Path": "nzd-to-aed"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "nzd",
+      "Conversion Path": "nzd-to-nzd"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "inr",
+      "Conversion Path": "nzd-to-inr"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "mxn",
+      "Conversion Path": "nzd-to-mxn"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "zar",
+      "Conversion Path": "nzd-to-zar"
+    },
+    {
+      "Country I": "nzd",
+      "Country II": "brl",
+      "Conversion Path": "nzd-to-brl"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "usd",
+      "Conversion Path": "inr-to-usd"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "eur",
+      "Conversion Path": "inr-to-eur"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "jpy",
+      "Conversion Path": "inr-to-jpy"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "gbp",
+      "Conversion Path": "inr-to-gbp"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "cny",
+      "Conversion Path": "inr-to-cny"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "aud",
+      "Conversion Path": "inr-to-aud"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "cad",
+      "Conversion Path": "inr-to-cad"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "kwd",
+      "Conversion Path": "inr-to-kwd"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "hkd",
+      "Conversion Path": "inr-to-hkd"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "sgd",
+      "Conversion Path": "inr-to-sgd"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "sek",
+      "Conversion Path": "inr-to-sek"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "krw",
+      "Conversion Path": "inr-to-krw"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "aed",
+      "Conversion Path": "inr-to-aed"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "nzd",
+      "Conversion Path": "inr-to-nzd"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "inr",
+      "Conversion Path": "inr-to-inr"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "mxn",
+      "Conversion Path": "inr-to-mxn"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "zar",
+      "Conversion Path": "inr-to-zar"
+    },
+    {
+      "Country I": "inr",
+      "Country II": "brl",
+      "Conversion Path": "inr-to-brl"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "usd",
+      "Conversion Path": "mxn-to-usd"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "eur",
+      "Conversion Path": "mxn-to-eur"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "jpy",
+      "Conversion Path": "mxn-to-jpy"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "gbp",
+      "Conversion Path": "mxn-to-gbp"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "cny",
+      "Conversion Path": "mxn-to-cny"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "aud",
+      "Conversion Path": "mxn-to-aud"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "cad",
+      "Conversion Path": "mxn-to-cad"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "kwd",
+      "Conversion Path": "mxn-to-kwd"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "hkd",
+      "Conversion Path": "mxn-to-hkd"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "sgd",
+      "Conversion Path": "mxn-to-sgd"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "sek",
+      "Conversion Path": "mxn-to-sek"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "krw",
+      "Conversion Path": "mxn-to-krw"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "aed",
+      "Conversion Path": "mxn-to-aed"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "nzd",
+      "Conversion Path": "mxn-to-nzd"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "inr",
+      "Conversion Path": "mxn-to-inr"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "mxn",
+      "Conversion Path": "mxn-to-mxn"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "zar",
+      "Conversion Path": "mxn-to-zar"
+    },
+    {
+      "Country I": "mxn",
+      "Country II": "brl",
+      "Conversion Path": "mxn-to-brl"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "usd",
+      "Conversion Path": "zar-to-usd"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "eur",
+      "Conversion Path": "zar-to-eur"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "jpy",
+      "Conversion Path": "zar-to-jpy"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "gbp",
+      "Conversion Path": "zar-to-gbp"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "cny",
+      "Conversion Path": "zar-to-cny"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "aud",
+      "Conversion Path": "zar-to-aud"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "cad",
+      "Conversion Path": "zar-to-cad"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "kwd",
+      "Conversion Path": "zar-to-kwd"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "hkd",
+      "Conversion Path": "zar-to-hkd"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "sgd",
+      "Conversion Path": "zar-to-sgd"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "sek",
+      "Conversion Path": "zar-to-sek"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "krw",
+      "Conversion Path": "zar-to-krw"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "aed",
+      "Conversion Path": "zar-to-aed"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "nzd",
+      "Conversion Path": "zar-to-nzd"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "inr",
+      "Conversion Path": "zar-to-inr"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "mxn",
+      "Conversion Path": "zar-to-mxn"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "zar",
+      "Conversion Path": "zar-to-zar"
+    },
+    {
+      "Country I": "zar",
+      "Country II": "brl",
+      "Conversion Path": "zar-to-brl"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "usd",
+      "Conversion Path": "brl-to-usd"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "eur",
+      "Conversion Path": "brl-to-eur"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "jpy",
+      "Conversion Path": "brl-to-jpy"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "gbp",
+      "Conversion Path": "brl-to-gbp"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "cny",
+      "Conversion Path": "brl-to-cny"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "aud",
+      "Conversion Path": "brl-to-aud"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "cad",
+      "Conversion Path": "brl-to-cad"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "kwd",
+      "Conversion Path": "brl-to-kwd"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "hkd",
+      "Conversion Path": "brl-to-hkd"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "sgd",
+      "Conversion Path": "brl-to-sgd"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "sek",
+      "Conversion Path": "brl-to-sek"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "krw",
+      "Conversion Path": "brl-to-krw"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "aed",
+      "Conversion Path": "brl-to-aed"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "nzd",
+      "Conversion Path": "brl-to-nzd"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "inr",
+      "Conversion Path": "brl-to-inr"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "mxn",
+      "Conversion Path": "brl-to-mxn"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "zar",
+      "Conversion Path": "brl-to-zar"
+    },
+    {
+      "Country I": "brl",
+      "Country II": "brl",
+      "Conversion Path": "brl-to-brl"
+    }
+  ]
+}
