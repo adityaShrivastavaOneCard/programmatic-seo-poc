@@ -18,7 +18,7 @@ function ConvertFromTo({ fromCurrency, toCurrency }) {
 }
 
 export async function getStaticPaths() {
-  const response = await fetch("http://localhost:4000/conversionPaths");
+  const response = await fetch("https://run.mocky.io/v3/612d0b90-890a-4f30-8d6a-0b337b6c84da");
   const data = await response.json();
   const paths = data.map((item) => {
     return { params: { convertFromTo: item["Conversion Path"] } };
